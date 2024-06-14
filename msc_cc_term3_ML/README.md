@@ -9,7 +9,7 @@ Video Link: https://youtu.be/xEvNbS8GlaQ
 
 Google Drive: https://drive.google.com/drive/folders/1sQTVFvSsDaXdUzCkFM50TMT0WkPqrQBm?usp=drive_link
 
-Notion Description: https://blue-coast-85f.notion.site/DCGAN-Card-iMage-7b7a866e113046c6be9b2f31fc2ac119?pvs=4
+Notion Link: https://blue-coast-85f.notion.site/DCGAN-Card-iMage-7b7a866e113046c6be9b2f31fc2ac119?pvs=4
 
 Github Link: https://github.com/RfadLs/msc_cc_term3_final/tree/main/msc_cc_term3_ML
 
