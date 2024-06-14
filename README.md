@@ -3,6 +3,8 @@ Student ID: 23014362
 
 Coding Three: Exploring to Machine Intelligence course:
 
+Project Description: The project aims to learn a model that can generate clear images of playing cards. The project uses DCGANs for realistic image generation using deep convolutional generative adversarial networks. Specifically, it collected a dataset of playing card images, preprocessed them, and built generator and discriminator models. The generator creates realistic images, while the discriminator distinguishes between real and generated ones. I then repeated the training and optimization process to arrive at an improved, highly defined model that could generate clear images of the playing cards.
+
 Video Link: https://youtu.be/xEvNbS8GlaQ 
 
 Google Drive: https://drive.google.com/drive/folders/1sQTVFvSsDaXdUzCkFM50TMT0WkPqrQBm?usp=drive_link 
