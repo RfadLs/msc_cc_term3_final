@@ -14,5 +14,7 @@ Github Link: https://github.com/RfadLs/msc_cc_term3_final/tree/main/msc_cc_term3
 Dataset Link: https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification
 
 Reference link: https://git.arts.ac.uk/rfiebrink/ExploringMachineIntelligence_Spring2024/tree/main/class-7 
+
                 https://medium.com/@epochalypse/diving-into-dcgan-37b81f86717c 
+                
                 https://www.analyticsvidhya.com/blog/2021/07/deep-convolutional-generative-adversarial-network-dcgan-for-beginners/
