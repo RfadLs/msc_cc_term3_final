@@ -17,6 +17,7 @@ https://blue-coast-85f.notion.site/Untrammeled-a6e7bcb4bf014a7aab7f286aa8fe6dd8?
 Link to demo video (provide narrative or text explanations in your video):
 
 https://youtu.be/jxXZDGI3L6I?si=BZock5Un7_wC8hk4
+https://youtu.be/jxXZDGI3L6I (Try)
 
 Documentation of playtest results 
 
