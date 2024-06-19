@@ -28,7 +28,7 @@ Documentation of playtest results
 
 
 Link to Github (The game EXE):
-
+https://github.com/RfadLs/msc_cc_term3_final/tree/main/msc_cc_term3_GameFinal
 
 Link to Google Drive (The file of the game):
 
